@@ -1,0 +1,4 @@
+/.env
+/.venv
+/participants.db
+/__pycache__
